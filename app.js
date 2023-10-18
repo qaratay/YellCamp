@@ -1,4 +1,4 @@
-//test
+//test main
 const express = require('express')
 const mongoose = require('mongoose')
 const ejsMate = require('ejs-mate')
