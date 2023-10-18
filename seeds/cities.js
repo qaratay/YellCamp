@@ -1,3 +1,4 @@
+// comment on main
 module.exports = [
     {
         city: "New York",
